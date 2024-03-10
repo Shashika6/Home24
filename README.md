@@ -4,7 +4,7 @@
 
 Recording of basic functionalities
 
-https://github.com/Shashika6/Home24/assets/32934169/c26f5bde-5029-4552-9974-7423cb37c185
+https://github.com/Shashika6/Home24/assets/32934169/7b0edcde-20d4-4fd4-b177-61eb8f19e77e
 
 ## Info 
 

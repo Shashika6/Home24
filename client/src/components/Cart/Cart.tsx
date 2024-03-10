@@ -87,7 +87,11 @@ const Cart: React.FC<CartProps> = ({ setShowCart }) => {
         <CartTotalPrice>{total}</CartTotalPrice>
       </CartTotalWrapper>
       <CartActionWrapper>
-        <CartActionButton disabled>
+        <CartActionButton
+          onClick={() => {
+            alert("Not implemented");
+          }}
+        >
           {CART_CHECKOUT_BUTTON_LABEL}
         </CartActionButton>
         <CartActionSecondaryButton onClick={clearCartProducts}>
